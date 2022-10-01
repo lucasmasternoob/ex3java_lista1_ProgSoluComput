@@ -1,6 +1,15 @@
-## Getting Started
+## Enunciado do Exercício 3 - Lista de Extrutura Sequêncial
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+3 Faça um Programa que peça dois números e imprima a soma.
+
+## Sobre o Projeto
+
+Este projeto é o `terceiro` exercício proposto pelo professor **Montanha**!
+
+Foi passado como base a lista de _Estrutura Sequencial_ de Python.
+
+Link da lista completa: [Lista de Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial)
+
 
 ## Folder Structure
 
